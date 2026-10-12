@@ -1,0 +1,20 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/marco/Desktop/EvilScheme-master/.theos/obj/debug/arm64e/ZZ_EvilScheme.dylib'
+relocations:
+  - { offset: 0x1E, size: 0x8, addend: 0x0, symName: __logosLocalInit, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x58 }
+  - { offset: 0x45, size: 0x8, addend: 0x0, symName: '__logos_orig$_ungrouped$FBSystemService$openApplication$withOptions$originator$requestID$completion$', symObjAddr: 0x4458, symBinAddr: 0xC1B8, symSize: 0x0 }
+  - { offset: 0x1AE, size: 0x8, addend: 0x0, symName: __logosLocalInit, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x58 }
+  - { offset: 0x1E0, size: 0x8, addend: 0x0, symName: '__logos_method$_ungrouped$FBSystemService$openApplication$withOptions$originator$requestID$completion$', symObjAddr: 0x58, symBinAddr: 0x4058, symSize: 0x788 }
+  - { offset: 0x2A1, size: 0x8, addend: 0x0, symName: _urlFromActions, symObjAddr: 0x7E0, symBinAddr: 0x47E0, symSize: 0x398 }
+  - { offset: 0x2F3, size: 0x8, addend: 0x0, symName: _logString, symObjAddr: 0xB78, symBinAddr: 0x4B78, symSize: 0x1B4 }
+  - { offset: 0x339, size: 0x8, addend: 0x0, symName: _prefs, symObjAddr: 0xD2C, symBinAddr: 0x4D2C, symSize: 0x1B8 }
+  - { offset: 0x399, size: 0x8, addend: 0x0, symName: _blacklist, symObjAddr: 0xEE4, symBinAddr: 0x4EE4, symSize: 0x1EC }
+  - { offset: 0x3F9, size: 0x8, addend: 0x0, symName: ___Block_byref_object_copy_, symObjAddr: 0x10D0, symBinAddr: 0x50D0, symSize: 0x58 }
+  - { offset: 0x41D, size: 0x8, addend: 0x0, symName: ___Block_byref_object_dispose_, symObjAddr: 0x1128, symBinAddr: 0x5128, symSize: 0x30 }
+  - { offset: 0x445, size: 0x8, addend: 0x0, symName: ___urlFromActions_block_invoke, symObjAddr: 0x1158, symBinAddr: 0x5158, symSize: 0x160 }
+  - { offset: 0x4E1, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40r, symObjAddr: 0x12B8, symBinAddr: 0x52B8, symSize: 0x5C }
+  - { offset: 0x505, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40r, symObjAddr: 0x1314, symBinAddr: 0x5314, symSize: 0x44 }
+  - { offset: 0x521, size: 0x8, addend: 0x0, symName: _setLogDict, symObjAddr: 0x1358, symBinAddr: 0x5358, symSize: 0x264 }
+  - { offset: 0x57D, size: 0x8, addend: 0x0, symName: _logDict, symObjAddr: 0x15BC, symBinAddr: 0x55BC, symSize: 0x24C }
+...
