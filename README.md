@@ -16,7 +16,9 @@ I love pull requests! To contribute, just fork, branch, commit, push, and send m
 
 Tips
 ---
-If you want to help support my projects, [![PayPal](https://shields.io)](paypal.me/efootballcicetto)
+If you want to help support my projects,
+ [![PayPal](https://shields.io)]paypal.me/efootballcicetto
+
 License
 ---
 Evil Scheme is free and open source software licensed under the [BSD 3-Clause 'New' or 'Revised' license](https://opensource.org/licenses/BSD-3-Clause) provided "As is" with absolutely no warranty.
