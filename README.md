@@ -17,9 +17,7 @@ I love pull requests! To contribute, just fork, branch, commit, push, and send m
 Tips
 ---
 If you want to help support my projects,
- <a href="https://www.paypal.com/paypalme/efootballcicetto">
-  <img src="https://paypalobjects.com" alt="Dona con PayPal" />
-</a>
+ [![PayPal](https://shields.io)](https://paypal.me)
 
 License
 ---
